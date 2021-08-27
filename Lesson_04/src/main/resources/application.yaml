@@ -1,0 +1,9 @@
+#application.product.name=simpleProduct
+#application.product.price=23
+application:
+  product:
+    name: simpleProduct
+    price: 23
+  server:
+    context-path: /api
+    port: 80
