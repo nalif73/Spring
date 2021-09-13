@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-mvc-demo" />
+        <module name="Lesson_09" />
+        <module name="Lesson_06" />
+        <module name="Lesson_08" />
+        <module name="Lesson_07" />
+        <module name="Lesson_10" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Lesson_06" options="-parameters" />
+      <module name="Lesson_07" options="-parameters" />
+      <module name="Lesson_08" options="-parameters" />
+      <module name="Lesson_09" options="-parameters" />
+      <module name="Lesson_10" options="-parameters" />
+      <module name="spring-mvc-demo" options="-parameters" />
+    </option>
+  </component>
+</project>
