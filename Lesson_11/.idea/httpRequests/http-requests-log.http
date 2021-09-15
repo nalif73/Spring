@@ -1,0 +1,90 @@
+GET http://localhost:8080/main/alpha
+
+<> 2021-08-11T172919.500.json
+
+###
+
+GET http://localhost:8089/product/2
+
+<> 2021-08-09T221254.200.json
+
+###
+
+GET http://localhost:8089/product/1
+
+<> 2021-08-09T221245.200.json
+
+###
+
+GET http://localhost:8080/product/1
+
+###
+
+POST http://localhost:8080/main/alpha
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "test title",
+    "price": 20
+}
+
+<> 2021-08-09T212430.200.json
+
+###
+
+POST http://localhost:8080/main/alpha
+Content-Type: application/json
+
+{
+    "id": 1,
+    "title": "test title",
+    "price": 20
+}
+
+<> 2021-08-09T212424.200.json
+
+###
+
+POST http://localhost:8080/main/alpha
+
+{
+    "id": 1,
+    "title": "test title",
+    "price": 20
+}
+
+<> 2021-08-09T211917.415.json
+
+###
+
+GET http://localhost:8080/main/alpha
+
+<> 2021-08-09T211406.200.txt
+
+###
+
+GET http://localhost:8080/main/alpha
+
+<> 2021-08-09T211334.404.json
+
+###
+
+GET http://localhost:8080/alpha
+
+<> 2021-08-09T211259.404.json
+
+###
+
+GET http://localhost:8080/main/alpha
+
+<> 2021-08-09T211240.404.json
+
+###
+
+GET http://localhost:8080/main/alpha
+
+<> 2021-08-09T211152.404.json
+
+###
+
