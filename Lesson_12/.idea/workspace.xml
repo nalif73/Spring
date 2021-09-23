@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2279c0a1-f69d-4d20-bdbf-e496857255e3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wV7AIdeueeB2RBimoj0hNPM6PL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/geekbrains/ru/springproduct/domain" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Filippov\IdeaProjects\Spring\Lesson_12\src\main\java\com\geekbrains\ru\springproduct\domain" />
+      <recent name="C:\Users\Filippov\IdeaProjects\Spring\Lesson_12\src\main\resources\templates\fragments" />
+      <recent name="C:\Users\Filippov\IdeaProjects\Spring\Lesson_12\src\main\resources\templates" />
+      <recent name="C:\Users\Filippov\IdeaProjects\Spring\Lesson_11\src\main\java\com\geekbrains\ru\springproduct\service\impl" />
+      <recent name="C:\Users\Filippov\IdeaProjects\Spring\Lesson_11\src\main\java\com\geekbrains\ru\springproduct\service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Filippov\IdeaProjects\Spring\Lesson_12\docker\fil" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.geekbrains.ru.springmvcdemo.service.impl" />
+      <recent name="com.geekbrains.ru.springmvcdemo.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.geekbrains.ru.springproduct.domain" />
+      <recent name="com.geekbrains.ru.springproduct.repository" />
+      <recent name="com.geekbrains.ru.springproduct.repository.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringProductApplication (6)">
+    <configuration name="SpringMvcDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-mvc-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbrains.ru.springmvcdemo.SpringMvcDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringProductApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Lesson_07" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbrains.ru.springproduct.SpringProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringProductApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="Lesson_08" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbrains.ru.springproduct.SpringProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringProductApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Lesson_09" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbrains.ru.springproduct.SpringProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringProductApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Lesson_10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbrains.ru.springproduct.SpringProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringProductApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="Lesson_11" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbrains.ru.springproduct.SpringProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringProductApplication (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="Lesson_12" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbrains.ru.springproduct.SpringProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker.postgres: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="postgres" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="fil: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker/fil/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringProductApplication (6)" />
+        <item itemvalue="Docker.fil: Compose Deployment" />
+        <item itemvalue="Spring Boot.SpringProductApplication (5)" />
+        <item itemvalue="Docker.docker: Compose Deployment" />
+        <item itemvalue="Docker.docker.postgres: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2279c0a1-f69d-4d20-bdbf-e496857255e3" name="Changes" comment="" />
+      <created>1628531757402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628531757402</updated>
+      <workItem from="1628531758556" duration="5430000" />
+      <workItem from="1628690025425" duration="3225000" />
+      <workItem from="1628788258142" duration="7976000" />
+      <workItem from="1628931350290" duration="136000" />
+      <workItem from="1629374985322" duration="3566000" />
+      <workItem from="1629382725827" duration="2000" />
+      <workItem from="1629891004980" duration="108000" />
+      <workItem from="1629891144449" duration="6263000" />
+      <workItem from="1629959199899" duration="25262000" />
+      <workItem from="1630315987310" duration="16951000" />
+      <workItem from="1630565364117" duration="6835000" />
+      <workItem from="1630577630375" duration="17173000" />
+      <workItem from="1630911608083" duration="294000" />
+      <workItem from="1630912155039" duration="7345000" />
+      <workItem from="1631216258984" duration="6000" />
+      <workItem from="1631217076385" duration="12440000" />
+      <workItem from="1631521661073" duration="28513000" />
+      <workItem from="1631789056528" duration="14686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
